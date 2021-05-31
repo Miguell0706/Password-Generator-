@@ -5,6 +5,8 @@ This homework assignment is to be able to modify the given Javascript file in or
 This work criteria was taken from the homeowork assignment's Reade.me file ,GIVEN I need a new, secure password      
 <br> <br/>
 
+![Screenshot (1712)](https://user-images.githubusercontent.com/82692900/120146273-ad80f980-c199-11eb-8ad6-26f712cc8113.png)
+
   1. WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
   2. WHEN prompted for password criteria
@@ -35,3 +37,18 @@ var numeric = "1234567890"
 var special = "!@#$%^&*()"
 ```
 
+
+![Screenshot (1714)](https://user-images.githubusercontent.com/82692900/120146348-cab5c800-c199-11eb-8e05-442f92153314.png)
+
+The Javascript has been writting to handle the variables shown in the above block of code.
+
+It also has been written so that if it detects a number lower than 8 or higher than 128, or a non numeric value the script
+will present an alert to the user and will not continue.
+
+Other measures that were taken are that a variable such as lowercase,uppercase,numeric, or special must be chosen and if none
+of the aforemetioned variables are chosen then the script alerts the user.
+
+Once the script has been given the proper input by the user then it will give out a password with the number of characters the user has
+chosen as well as the matching criteria that has been chosen. 
+
+![Screenshot (1716)](https://user-images.githubusercontent.com/82692900/120146739-6810fc00-c19a-11eb-9a86-8ad3a8bb0292.png)
