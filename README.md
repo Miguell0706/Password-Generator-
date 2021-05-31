@@ -52,3 +52,6 @@ Once the script has been given the proper input by the user then it will give ou
 chosen as well as the matching criteria that has been chosen. 
 
 ![Screenshot (1716)](https://user-images.githubusercontent.com/82692900/120146739-6810fc00-c19a-11eb-9a86-8ad3a8bb0292.png)
+
+[Link to the password generator page](https://miguell0706.github.io/Password-Generator-/)
+
