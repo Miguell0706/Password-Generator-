@@ -55,3 +55,4 @@ chosen as well as the matching criteria that has been chosen.
 
 [Link to the password generator page](https://miguell0706.github.io/Password-Generator-/)
 
+https://miguell0706.github.io/JavascriptQuiz/ Link to the program here!
